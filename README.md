@@ -1,4 +1,4 @@
-## Hi there 👋
+## 반갑습니다 정용현 입니다
 
 <!--
 **jung060221/jung060221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
